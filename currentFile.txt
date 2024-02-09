@@ -1,0 +1,15 @@
+git stash save "Your stash message"
+
+git stash list
+
+
+git stash apply stash@{0}
+
+git stash pop
+
+
+git stash pop
+
+
+git stash drop stash@{0}
+
